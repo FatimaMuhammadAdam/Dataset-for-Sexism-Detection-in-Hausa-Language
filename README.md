@@ -7,6 +7,6 @@ The second file contains only the purely translated Hausa instances from both of
 
 The third file contains the definition of sexism in the Hausa Language, extracted from a user study.
 
-The dataset will be updated in a timely manner from social media platforms such as X and Facebook.
+The dataset will be updated promptly from social media platforms, including X and Facebook.
 
 
