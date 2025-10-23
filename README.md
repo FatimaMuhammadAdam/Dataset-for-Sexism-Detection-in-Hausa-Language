@@ -1,3 +1,4 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fhstp.ac.at%2Fen%2Fstories%2Fnews%2F1st-place-for-detecting-sexism-in-social-networks&psig=AOvVaw3ueaUSfFKShJZl5IJjmtKC&ust=1761326637474000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjU8KrrupADFQAAAAAdAAAAABAE
 # Dataset-for-Sexism-Detection-in-Hausa-Language
 This repository was created to provide the initial dataset and baseline for Sexism Detection in the Hausa Language. 
 It contains three files:
