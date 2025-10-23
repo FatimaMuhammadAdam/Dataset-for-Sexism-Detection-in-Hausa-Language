@@ -1,7 +1,7 @@
 # Dataset-for-Sexism-Detection-in-Hausa-Language
 This repository was created to provide the initial dataset and baseline for Sexism Detection in the Hausa Language. 
 It contains three files:
-The first file includes the augmented English dataset from  **the SemEval-2023 Task 10: Explainable Detection of Online Sexism** by First Hannah et al. (https://github.com/rewire-online/edos), along with the sexist and non-sexist instances derived from the research,  **Detection and Analysis of Offensive Online Content in Hausa Language** by First Author et al. (https://www.ijcai.org/proceedings_aai4g/2024/1).
+The first file includes the augmented English dataset from  **the SemEval-2023 Task 10: Explainable Detection of Online Sexism** by First Hannah et al. (https://github.com/rewire-online/edos), along with the sexist and non-sexist instances derived from the research,  **Detection and Analysis of Offensive Online Content in Hausa Language** by Adam et al. (https://www.ijcai.org/proceedings_aai4g/2024/1).
 
 The second file contains only the purely translated Hausa instances from both of the aforementioned research studies.
 
