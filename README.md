@@ -21,7 +21,8 @@ The dataset will be updated promptly from social media platforms, including X an
 
 This repository provides the dataset associated with our research paper:
 
-* **Paper Title:**
+* **Paper Title:**  Dataset Creation and Baseline Models for Sexism Detection in
+Hausa.
 * **Authors:**
 
 ## 🛡️ Intended Use & Ethical Consideration
