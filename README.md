@@ -10,4 +10,29 @@ The third file contains the definition of sexism in the Hausa Language, extracte
 
 The dataset will be updated promptly from social media platforms, including X and Facebook.
 
+---
 
+> **⚠️ CONTENT WARNING:** This repository contains samples of text data in Hausa that include offensive, derogatory, sexist, and otherwise objectionable language. This dataset was collected and curated strictly for academic research purposes—specifically for training, evaluating, and improving natural language processing (NLP) models for sexism and hate speech detection in low-resource languages.
+> The views and opinions expressed in these text samples do not reflect the views, beliefs, or opinions of the authors or their affiliated institutions.
+
+---
+
+## 📌 Overview
+
+This repository provides the dataset associated with our research paper:
+
+* **Paper Title:**
+* **Authors:**
+
+## 🛡️ Intended Use & Ethical Consideration
+
+* **Research Only:** This dataset is intended **strictly for academic research and educational purposes**. Commercial use, redistribution without permission, or utilization for targeted harassment, profiling, or malicious activities is strictly prohibited.
+* **Content Nature:** Because the core objective of this research is to identify and mitigate online toxicity and sexism, exposure to raw offensive language is unavoidable within the dataset files.
+
+## 📝 Terms of Use
+
+By downloading, cloning, or otherwise accessing this dataset, you acknowledge that:
+
+1. You understand the potentially offensive and sensitive nature of the data contained herein.
+2. You agree to use the data exclusively for lawful academic and research purposes.
+3. You will take appropriate measures to secure the data and ensure it is not misused.
